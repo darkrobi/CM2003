@@ -1,0 +1,1 @@
+http://public.je-apis.com/swagger-ui/#!/restaurants
